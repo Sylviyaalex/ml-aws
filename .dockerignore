@@ -1,0 +1,17 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.swp
+*.tmp
+.venv
+env
+venv
+.gitignore
+.idea
+.vscode
+tests/
+infra/
+.github/
